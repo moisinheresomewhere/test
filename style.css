@@ -1,0 +1,41 @@
+/* style.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    text-align: center;
+}
+h1 {
+    color: #333;
+}
+p {
+    font-size: 18px;
+    color: #666;
+}
+
+        /* Style for the button */
+        .my-button {
+            background-color: #4c63af; /* Green background color */
+            border: none; /* No border */
+            color: white; /* Text color */
+            padding: 10px 20px; /* Padding around the text */
+            border-radius: 5px; /* Rounded corners */
+            cursor: pointer; /* Change cursor on hover */
+        }
+
+        /* Hover effect */
+        .my-button:hover {
+            background-color: #4556a0; /* Darker green on hover */
+        }
+
+        .yt-button {
+            background-color: #f00b0b; /* Green background color */
+            border: none; /* No border */
+            color: white; /* Text color */
+            padding: 10px 20px; /* Padding around the text */
+            border-radius: 5px; /* Rounded corners */
+            cursor: pointer; /* Change cursor on hover */
+        }
+
+        .yt-button:hover {
+            background-color: #990909; /* Darker green on hover */
+        }
